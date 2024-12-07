@@ -1,0 +1,3 @@
+# SQL Server REST API
+
+Currently under construction! Working on setting up a REST API that serves up info from a Microsoft SQL Server DB. Stay tuned...
